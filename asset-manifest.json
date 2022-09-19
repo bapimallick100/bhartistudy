@@ -1,22 +1,16 @@
 {
   "files": {
-    "main.css": "/bhartistudy/static/css/main.90f3d927.css",
-    "main.js": "/bhartistudy/static/js/main.7c9f75e4.js",
+    "main.css": "/bhartistudy/static/css/main.073c9b0a.css",
+    "main.js": "/bhartistudy/static/js/main.65407f89.js",
     "static/js/787.80068ed8.chunk.js": "/bhartistudy/static/js/787.80068ed8.chunk.js",
-    "static/media/Image3.jpg": "/bhartistudy/static/media/Image3.c199a74bd7d027b88121.jpg",
-    "static/media/Image1.jpg": "/bhartistudy/static/media/Image1.38be7deea1f73b45794d.jpg",
-    "static/media/banner3.jpg": "/bhartistudy/static/media/banner3.be9af20612c09bc0df8f.jpg",
-    "static/media/banner2.jpg": "/bhartistudy/static/media/banner2.c31514f375128a6436f3.jpg",
-    "static/media/banner1.jpg": "/bhartistudy/static/media/banner1.18800171dff53752b223.jpg",
-    "static/media/graphics-design.png": "/bhartistudy/static/media/graphics-design.08c25c6b6b3ecac266d2.png",
-    "static/media/Image2.jpg": "/bhartistudy/static/media/Image2.e52af716c84e0977bcc3.jpg",
+    "static/media/logo.svg": "/bhartistudy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bhartistudy/index.html",
-    "main.90f3d927.css.map": "/bhartistudy/static/css/main.90f3d927.css.map",
-    "main.7c9f75e4.js.map": "/bhartistudy/static/js/main.7c9f75e4.js.map",
+    "main.073c9b0a.css.map": "/bhartistudy/static/css/main.073c9b0a.css.map",
+    "main.65407f89.js.map": "/bhartistudy/static/js/main.65407f89.js.map",
     "787.80068ed8.chunk.js.map": "/bhartistudy/static/js/787.80068ed8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90f3d927.css",
-    "static/js/main.7c9f75e4.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.65407f89.js"
   ]
 }
