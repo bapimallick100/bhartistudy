@@ -1,0 +1,58 @@
+.App{
+    margin: 0;
+    padding: 0;
+    }
+    .section{
+    
+    }
+    .button{
+      width: 10%;
+      margin-right: 10px;
+      height: 50px;
+      border-radius: 20px;
+      font-size: 25px;
+      border: 2px solid blueviolet;
+      color:  rgb(22, 17, 17);
+    }
+      
+    .active{
+      background-color: blue;
+      color: whitesmoke;
+    }
+    .buttonTab{
+      background: whitesmoke;
+      padding: 20px;
+      width: 100%;
+      height: 100%;
+      display: none;
+      border-radius: 20px;
+      margin-left: 10px;
+      margin-right: 20px;
+      border: 2px solid  #4d9ff7;
+    }
+    .active-content{
+      display: block;
+    }
+    .productCard{
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+    }
+    .container{
+      display: flex;
+      border: 1px solid black;
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column;
+    }
+    .container img{
+      height: 100px;
+      width: 100%;
+      border-radius: 10px;
+     
+      object-fit: fill;
+    
+    }
+    .productImg{
+     
+    }

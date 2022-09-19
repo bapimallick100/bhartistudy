@@ -1,0 +1,83 @@
+.section{
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.subTitle{
+ font-size: 23px;
+ border-radius: 15px;
+ background-image: linear-gradient(
+340deg,
+hsl(240deg 75% 61%) 0%,
+hsl(246deg 72% 58%) 9%,
+hsl(251deg 69% 56%) 19%,
+hsl(257deg 66% 53%) 30%,
+hsl(262deg 64% 50%) 40%,
+hsl(267deg 71% 47%) 50%,
+hsl(273deg 84% 42%) 59%,
+hsl(274deg 82% 41%) 68%,
+hsl(276deg 79% 40%) 76%,
+hsl(277deg 77% 39%) 83%,
+hsl(278deg 74% 38%) 90%,
+hsl(280deg 71% 36%) 95%,
+hsl(281deg 68% 35%) 100%
+);
+ color: #ffffff;
+
+}
+.textContent{
+  font-size: 20px;
+}
+
+.tag{
+  font-size: 10px;
+  color: blue;
+}
+@media only screen and (max-width: 1920px) {}
+@media only screen and (max-width: 1536px) {}
+@media only screen and (max-width: 1440px) {}
+@media only screen and (max-width: 1366px) {}
+@media only screen and (max-width: 1280px) {}
+@media only screen and (max-width: 1200px) {}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 800px) {}
+
+@media only screen and (min-width: 768px) {
+ .desktop{
+     visibility: visible;  
+     width: 100%;
+     height: 100%; 
+   } 
+   .w{
+    width: 100%;
+   }
+   .mobile{
+     visibility: hidden;
+     width: 0;
+     height: 0;      
+   }
+}
+@media only screen and (max-width: 768px) {
+.desktop{
+ visibility: hidden;
+ display: block; 
+ width: 0;
+ height: 0;
+}  
+.mobile{
+ visibility: visible;
+ width: 100%;
+ height: 100%;
+}
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {}
+@media only screen and (max-width: 414px) {}
+@media only screen and (max-width: 375px ){}
+@media only screen and (max-width: 360px) {}
+
+
